@@ -1,2 +1,3 @@
 # complaints.zaprit.fish.vilijur.fish
-still too lazy to get a vps to host joke subdomains
+
+we're sorry, we are currently not accepting any compalints. please come back in approximately 53 to 820 years.
